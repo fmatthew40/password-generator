@@ -5,6 +5,9 @@ My task was to refactor this website in order to make this password generator wo
 
 # Screenshot:
 
+![image](https://user-images.githubusercontent.com/93060262/142717025-5414b6dc-e953-4f8e-ad8b-ad908e613813.png)
+
+
 
 # Link to Application:
 https://fmatthew40.github.io/password-generator/
