@@ -14,6 +14,9 @@ https://fmatthew40.github.io/password-generator/
 # Usage:  
 This application is used to create a password up to 128 characters.  The application prompts the user on the password criteria such as capital letters, and special characters.  
 
+# Technologies Used:
+CSS, HTML, Javscript
+
 
 
 
